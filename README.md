@@ -1,15 +1,11 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
---------
-
 - 🔭 I’m currently working on consistently writing to take note of my progress in daily productivity
 - 👯 I’m looking to collaborate on AI, productivity solutions, and anything I find interesting and worthwhile.
 - 📫 How to reach me: yangchen.xiyou@gmail.com
 
 
 ## Tech & Tools Preference
-
------------
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
